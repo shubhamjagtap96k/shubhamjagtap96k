@@ -1,5 +1,5 @@
 
-<h2 align="left">Software Engineer focused on backend development with Java and Spring Boot, complemented by React, AWS expertise, and hands‑on experience in AI technologies. Dedicated to open source and continuous growth.</h2>
+<h2 align="left">Backend Alchemist: Java, Cloud, AI.</h2>
 
 ###
 
