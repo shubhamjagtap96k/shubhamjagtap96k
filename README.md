@@ -61,6 +61,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shubhamjagtap96k&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamjagtap96k&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![snake gif](https://github.com/shubhamjagtap96k/shubhamjagtap96k/blob/output/github-snake.svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
